@@ -45,6 +45,6 @@ This project provides APIs for account creation, balance checking, deposit, with
 ### Create Account:
 ```json
 {
-  "name": "John Doe",
+  "name": "Vishal Yalameli",
   "initialBalance": 5000
 }
